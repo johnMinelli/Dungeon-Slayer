@@ -1,0 +1,34 @@
+<RCC>
+    <qresource prefix="/Resources">
+        <file>Resources/potionAP.png</file>
+        <file>Resources/potionHP.png</file>
+        <file>Resources/potionRAND.png</file>
+        <file>Resources/potionSTR.png</file>
+        <file>Resources/unibo.png</file>
+        <file>Resources/unnamed (3).png</file>
+        <file>Resources/wolf.png</file>
+        <file>Resources/armor.png</file>
+        <file>Resources/bloodSplash.png</file>
+        <file>Resources/weapon.png</file>
+        <file>Resources/spirit_of_fright.png</file>
+        <file>Resources/floor.png</file>
+        <file>Resources/ladder.png</file>
+        <file>Resources/fireAttackSplash.png</file>
+        <file>Resources/rsz_battlearena.png</file>
+        <file>Resources/splashBattle.png</file>
+        <file>Resources/bigBoss.png</file>
+        <file>Resources/battle_icon.ico</file>
+        <file>Resources/outdoor.png</file>
+        <file>Resources/ShockSpell.png</file>
+        <file>Resources/startScreen.png</file>
+        <file>Resources/dead.png</file>
+        <file>Resources/warningSplash.png</file>
+        <file>Resources/enemyDefeated.png</file>
+        <file>Resources/bossDefeated.png</file>
+        <file>Resources/key.png</file>
+        <file>Resources/trapdoor.png</file>
+    </qresource>
+    <qresource prefix="/Sounds">
+        <file>Sounds/Soundtrack gameRemixVersion faded.mp3</file>
+    </qresource>
+</RCC>
